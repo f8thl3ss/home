@@ -15,6 +15,10 @@
     pkgs.zellij
     pkgs.ripgrep
     pkgs.fzy
+    pkgs.wl-clipboard
+    pkgs.fd
+    pkgs.helix
+    pkgs.gh
   ];
 
   # This value determines the Home Manager release that your
