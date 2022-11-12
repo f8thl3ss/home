@@ -19,6 +19,12 @@
     pkgs.fd
     pkgs.helix
     pkgs.gh
+    pkgs.imagemagick
+    pkgs.ffmpeg
+    pkgs.tree-sitter
+    pkgs.clang
+    pkgs.packer
+    pkgs.zig
   ];
 
   # This value determines the Home Manager release that your
