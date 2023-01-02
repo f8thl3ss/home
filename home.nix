@@ -25,6 +25,11 @@
     pkgs.clang
     pkgs.packer
     pkgs.zig
+    pkgs.rust-analyzer
+    pkgs.direnv
+    pkgs.nixpkgs-fmt
+    pkgs.wireguard-tools
+    pkgs.tldr
   ];
 
   # This value determines the Home Manager release that your
